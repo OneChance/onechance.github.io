@@ -10,9 +10,9 @@ permalink: /about/
 
 ## About the site
 
-###### Created with github and jekyll. 
+Created with github and jekyll. 
 
 ## About me
 
-###### 六纹钱.
+六纹钱.
 
