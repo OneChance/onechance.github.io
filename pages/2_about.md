@@ -1,6 +1,7 @@
 ---
 layout: page
 comments: true
+title: 关于
 permalink: /about/
 ---
 
