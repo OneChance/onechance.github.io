@@ -9,8 +9,10 @@ permalink: /about/
 {:toc}
 
 ## About the site
-Created with github and jekyll. 
+
+###### Created with github and jekyll. 
 
 ## About me
-Test.
+
+###### 六纹钱.
 
