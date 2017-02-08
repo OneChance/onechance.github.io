@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: sql server
+categories: sqlserver
 ---
 
 ![image](http://images.cnitblog.com/blog/347600/201306/25104716-b63ee4c14f3e45e4a131176bdaed9bbf.jpg)

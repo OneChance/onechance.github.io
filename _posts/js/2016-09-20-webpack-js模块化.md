@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+categories: js
+---
+
 # 标准
 #### 标签风格
 ```

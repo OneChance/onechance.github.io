@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+categories: java
+---
+
 # Lambda表达式
 
 ```
