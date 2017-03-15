@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: js
+categories: front-end
 ---
 
 # 标准

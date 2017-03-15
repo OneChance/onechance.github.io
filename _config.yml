@@ -1,7 +1,7 @@
 # Site settings
-title: 六纹钱
+title: 开发日记
 email: zhouh08@hotmail.com
-description: 技术栈
+description: 记录开发相关的技术知识及实践中遇到的问题
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
 #   line in _config.yml. It will appear in your document head meta (for
@@ -9,17 +9,17 @@ description: 技术栈
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: 
+# twitter_username:
 github_username: onechance
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
 # this is the url root of the create page link on the footer page.
 #########################################
-# for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
+# for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com.
 duoshuo_shortname: onechance
 duoshuo_url: http://http://onechance.duoshuo.com/
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-#disqus_shortname: 
+#disqus_shortname:
 #disqus_url:
 #########################################
 

@@ -14,5 +14,5 @@ Created with github and jekyll.
 
 ## About me
 
-六纹钱.
+开发日记.
 
